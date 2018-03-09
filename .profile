@@ -21,3 +21,6 @@ alias rmpyc="find . -name '*.pyc' -exec rm {} \;"
 
 # Go path
 export GOPATH=$HOME/golang
+
+# VLC
+alias vlc='/Applications/VLC.app/Contents/MacOS/VLC -I rc'
